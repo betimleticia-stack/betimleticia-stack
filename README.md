@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**betimleticia-stack/betimleticia-stack** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Olá, eu sou Leticia da Rosa Betim
 
-Here are some ideas to get you started:
+## Sobre mim
+Sou estudante e estou aprendendo programação.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que estou estudando
+- HTML
+- CSS
+- JavaScript
+
+##Objetivos
+	## ser uma pessoa trbalhadora e  fazer lavagem de dinheiro 
+## Contato
+- E-mail: betim.leticia@escola.pr.gov.br
