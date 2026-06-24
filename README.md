@@ -10,6 +10,6 @@ Sou estudante e estou aprendendo programação.
 - JavaScript
 
 ##Objetivos
-	## ser uma pessoa trbalhadora e  fazer lavagem de dinheiro 
+	## ser uma pessoa trbalhadora 
 ## Contato
 - E-mail: betim.leticia@escola.pr.gov.br
